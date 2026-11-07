@@ -2,6 +2,8 @@
 
 适用于 Windows 音游的透明按键速度悬浮窗，实时显示 BPM 和总 KPS。窗口置顶、鼠标穿透，适合游戏和直播叠加。
 
+![KPS Overlay 界面预览](overlay-preview.png)
+
 ## 使用方法
 
 1. 在 GitHub 页面点击 **Code → Download ZIP**，下载并解压。
