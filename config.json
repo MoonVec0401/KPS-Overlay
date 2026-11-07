@@ -1,0 +1,47 @@
+{
+  "keys": [
+    "D",
+    "F",
+    "J",
+    "K"
+  ],
+  "idle_reset_seconds": 0.67,
+  "interval_count": 4,
+  "total_kps_window_seconds": 1.0,
+  "smoothing_seconds_to_90_percent": 0.2,
+  "timing_log_enabled": true,
+  "size": 420,
+  "position": {
+    "x": 800,
+    "y": 450
+  },
+  "opacity": 0.96,
+  "refresh_hz": 120,
+  "segments": [
+    {
+      "from_bpm": 0,
+      "to_bpm": 75,
+      "color": "#07542F"
+    },
+    {
+      "from_bpm": 75,
+      "to_bpm": 150,
+      "color": "#25A244"
+    },
+    {
+      "from_bpm": 150,
+      "to_bpm": 180,
+      "color": "#F2C94C"
+    },
+    {
+      "from_bpm": 180,
+      "to_bpm": 195,
+      "color": "#E53935"
+    },
+    {
+      "from_bpm": 195,
+      "to_bpm": 240,
+      "color": "#8B1018"
+    }
+  ]
+}
